@@ -1,2 +1,2 @@
 # jbui009.github.io
-portfolio page
+Welcome to my personal website!
